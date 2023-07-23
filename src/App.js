@@ -424,6 +424,7 @@ ________________________________________________________________________________
 
 16.
 Using Axios with use Effect and controlling mounting ... + using OnClick on button as well 
+Cat Facts
 
 function App(){
   const [generateFact, setGenerateFact] = useState("");
@@ -448,8 +449,9 @@ function App(){
 _____________________________________________________________________________________________________________________________________________________________
 
 17.
-API  Part 2
-Using just useState and Pridict age 
+API  Part 2 // Using just useState 
+Age Pridictor 
+
 function App(){
   const [name, setName] = useState("");
   const [age, setAge] = useState(null);
@@ -474,7 +476,7 @@ function App(){
 _____________________________________________________________________________________________________________________________________________________________
 
 18.
-// Excuse generator 
+Excuse generator 
 // Try making it yourself
 function App (){
 
